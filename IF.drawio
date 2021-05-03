@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T17:19:47.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="xwcXiMZPid1GIfHl_5bh" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-03T17:20:51.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="gIhyxISZVhypG1Ugr3xH" version="14.6.6" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="965" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -112,10 +112,10 @@
         <mxCell id="677b7b8949515195-49" value="Feature 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YQkR4Uo7yY8lCMuE5dBn-2" value="Connected" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxjaXJjbGUgZmlsbD0iIzRDQUY1MCIgY3g9IjI0IiBjeT0iMjQiIHI9IjIxIi8+JiN4YTsgICAgPHBvbHlnb24gZmlsbD0iI0NDRkY5MCIgcG9pbnRzPSIzNC42LDE0LjYgMjEsMjguMiAxNS40LDIyLjYgMTIuNiwyNS40IDIxLDMzLjggMzcuNCwxNy40Ii8+JiN4YTs8L3N2Zz4=" vertex="1" parent="1">
+        <mxCell id="YQkR4Uo7yY8lCMuE5dBn-2" value="Сервер" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxjaXJjbGUgZmlsbD0iIzRDQUY1MCIgY3g9IjI0IiBjeT0iMjQiIHI9IjIxIi8+JiN4YTsgICAgPHBvbHlnb24gZmlsbD0iI0NDRkY5MCIgcG9pbnRzPSIzNC42LDE0LjYgMjEsMjguMiAxNS40LDIyLjYgMTIuNiwyNS40IDIxLDMzLjggMzcuNCwxNy40Ii8+JiN4YTs8L3N2Zz4=" vertex="1" parent="1">
           <mxGeometry x="30" y="750" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="YQkR4Uo7yY8lCMuE5dBn-3" value="&lt;div style=&quot;text-align: justify&quot;&gt;03 - May-2021 06-45 Master authorized&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;03 - May-2021 06-46&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
+        <mxCell id="YQkR4Uo7yY8lCMuE5dBn-3" value="&lt;div style=&quot;text-align: justify&quot;&gt;03 - May-2021 06-45 Авторизация мастера&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;03 - May-2021 06-46 Изменение&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="760" width="730" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YQkR4Uo7yY8lCMuE5dBn-5" value="Инструмент" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
