@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T22:27:52.106Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.50" etag="uUmhUMsovmQZ0YVUX2z6" version="15.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-30T22:34:09.648Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.50" etag="k2O7PuieiD6ecZtzbD0e" version="15.4.0" type="github" pages="3">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3076" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           <mxGeometry x="60" y="80" width="10" height="680" as="geometry" />
         </mxCell>
         <mxCell id="2e_64IFEb6oXo00INaOW-5" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#FAFAFA;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
-          <mxGeometry x="110" y="80" width="10" height="240" as="geometry" />
+          <mxGeometry x="110" y="80" width="10" height="660" as="geometry" />
         </mxCell>
         <mxCell id="2e_64IFEb6oXo00INaOW-6" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#FAFAFA;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
           <mxGeometry x="160" y="80" width="10" height="680" as="geometry" />
@@ -209,33 +209,30 @@
         <mxCell id="2e_64IFEb6oXo00INaOW-15" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#FAFAFA;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
           <mxGeometry x="590" y="80" width="10" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="2e_64IFEb6oXo00INaOW-16" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="2e_64IFEb6oXo00INaOW-1">
+        <mxCell id="2e_64IFEb6oXo00INaOW-16" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.513;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2e_64IFEb6oXo00INaOW-1" source="2e_64IFEb6oXo00INaOW-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="100" as="sourcePoint" />
-            <mxPoint x="70" y="100" as="targetPoint" />
+            <mxPoint x="285" y="430" as="sourcePoint" />
+            <mxPoint x="65" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2e_64IFEb6oXo00INaOW-17" value="Heartbeat/0.5sec" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" connectable="0" vertex="1" parent="2e_64IFEb6oXo00INaOW-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ysJOgu0cOiIMqHiJRJiE-0" value="Rise semaphore with red if timer counted to 700ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
-          <mxGeometry x="-30" y="170" width="150" height="30" as="geometry" />
+          <mxGeometry x="40" y="530" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ysJOgu0cOiIMqHiJRJiE-1" value="Rise green fall red semaphore with red if timer is under 700ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
-          <mxGeometry x="-35" y="325" width="150" height="40" as="geometry" />
+          <mxGeometry x="30" y="270" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ysJOgu0cOiIMqHiJRJiE-2" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2e_64IFEb6oXo00INaOW-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="130" as="sourcePoint" />
-            <mxPoint x="292" y="130" as="targetPoint" />
+            <mxPoint x="65" y="460" as="sourcePoint" />
+            <mxPoint x="290" y="460" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysJOgu0cOiIMqHiJRJiE-3" value="Heartbeat/0.5sec" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" connectable="0" vertex="1" parent="ysJOgu0cOiIMqHiJRJiE-2">
+        <mxCell id="ysJOgu0cOiIMqHiJRJiE-3" value="SLC system tag &quot;Online&quot;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" connectable="0" vertex="1" parent="ysJOgu0cOiIMqHiJRJiE-2">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ysJOgu0cOiIMqHiJRJiE-4" value="Contra-watchdog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
-          <mxGeometry x="210" y="175" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="83XGF_n4W-D-rVPDnWAN-0" value="DI laser" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
           <mxGeometry x="620" y="40" width="60" height="40" as="geometry" />
@@ -296,12 +293,13 @@
         <mxCell id="83XGF_n4W-D-rVPDnWAN-13" value="SICK data" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" connectable="0" vertex="1" parent="83XGF_n4W-D-rVPDnWAN-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="83XGF_n4W-D-rVPDnWAN-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#030303;strokeColor=#005700;edgeStyle=orthogonalEdgeStyle;exitX=0.269;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#008a00;" edge="1" parent="2e_64IFEb6oXo00INaOW-1">
+        <mxCell id="83XGF_n4W-D-rVPDnWAN-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#030303;strokeColor=#005700;edgeStyle=orthogonalEdgeStyle;exitX=0.269;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#008a00;strokeWidth=2;entryX=0.306;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2e_64IFEb6oXo00INaOW-1" target="83XGF_n4W-D-rVPDnWAN-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399" y="375.9200000000001" as="sourcePoint" />
             <mxPoint x="770" y="291" as="targetPoint" />
             <Array as="points">
               <mxPoint x="399" y="291" />
+              <mxPoint x="777" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -342,19 +340,19 @@
         <mxCell id="83XGF_n4W-D-rVPDnWAN-22" value="Advantech IO Thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=270;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
           <mxGeometry x="312" y="140" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="83XGF_n4W-D-rVPDnWAN-23" value="Heartbeat thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=270;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
-          <mxGeometry x="240" y="120" width="130" height="30" as="geometry" />
+        <mxCell id="83XGF_n4W-D-rVPDnWAN-23" value="Heartbeat thread (insp_ok tag)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=270;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
+          <mxGeometry x="230" y="140" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="83XGF_n4W-D-rVPDnWAN-24" value="&lt;font color=&quot;#0623b8&quot;&gt;NetX EIP Thread&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=270;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
           <mxGeometry x="360" y="130" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="83XGF_n4W-D-rVPDnWAN-25" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#fad9d5;strokeColor=#ae4132;entryX=0.057;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2e_64IFEb6oXo00INaOW-1">
+        <mxCell id="83XGF_n4W-D-rVPDnWAN-25" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#fad9d5;strokeColor=#ae4132;entryX=0.651;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2e_64IFEb6oXo00INaOW-1" target="2e_64IFEb6oXo00INaOW-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="637" y="523.24" as="sourcePoint" />
             <mxPoint x="400" y="523" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="407" y="524.24" />
-              <mxPoint x="407" y="523.24" />
+              <mxPoint x="407" y="524" />
+              <mxPoint x="407" y="523" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -385,6 +383,12 @@
         </mxCell>
         <mxCell id="83XGF_n4W-D-rVPDnWAN-35" value="Calculation thread" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=270;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
           <mxGeometry x="430" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJjsgWp9bHFP0PNiDqT7-6" value="Semaphore driving Net" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=90;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
+          <mxGeometry x="30" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJjsgWp9bHFP0PNiDqT7-7" value="Heartbeat/Watchdog NET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=90;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
+          <mxGeometry x="-20" y="140" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
