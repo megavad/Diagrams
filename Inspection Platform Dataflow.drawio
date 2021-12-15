@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T21:31:52.886Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 OPR/82.0.4227.23" etag="8su3zKmXzrwAIHqS_n0O" version="15.9.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-15T21:32:31.597Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 OPR/82.0.4227.23" etag="n3espuIYEHcBq7_ho4f2" version="15.9.1" type="github" pages="4">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3903" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1372,7 +1372,7 @@
             <mxPoint x="430" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxTxfv8-PBKLgNhfATTB-149" value="UDP Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hxTxfv8-PBKLgNhfATTB-148">
+        <mxCell id="hxTxfv8-PBKLgNhfATTB-149" value="UDP Data with T-&amp;gt;O ID1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hxTxfv8-PBKLgNhfATTB-148">
           <mxGeometry x="-0.3619" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1381,11 +1381,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="670" as="sourcePoint" />
             <mxPoint x="430" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="670" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hxTxfv8-PBKLgNhfATTB-151" value="UDP Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hxTxfv8-PBKLgNhfATTB-150">
+        <mxCell id="hxTxfv8-PBKLgNhfATTB-151" value="UDP Data with T-&amp;gt;O ID2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hxTxfv8-PBKLgNhfATTB-150">
           <mxGeometry x="-0.3619" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
