@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:16:24.887Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="MKhJraURy6Qab4dtwpKS" version="20.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-01T08:16:55.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="fp_mdnQ0qhpI_qPHQzTC" version="20.0.3" type="github" pages="7">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3604" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SpEmTZ6vk0YUr2YGCEAh" name="High Level SEQ chart">
-    <mxGraphModel dx="2062" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2e_64IFEb6oXo00INaOW-0" />
         <mxCell id="2e_64IFEb6oXo00INaOW-1" parent="2e_64IFEb6oXo00INaOW-0" />
@@ -495,10 +495,10 @@
             <mxPoint x="12" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="83XGF_n4W-D-rVPDnWAN-0" value="DI laser" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
+        <mxCell id="83XGF_n4W-D-rVPDnWAN-0" value="DI IR sensor" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
           <mxGeometry x="620" y="40" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="83XGF_n4W-D-rVPDnWAN-1" value="SICK" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
+        <mxCell id="83XGF_n4W-D-rVPDnWAN-1" value="MLG2" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
           <mxGeometry x="690" y="40" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="83XGF_n4W-D-rVPDnWAN-2" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
