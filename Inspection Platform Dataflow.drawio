@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:18:08.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="KYDwYDeic0WCK4VSorR_" version="20.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-01T08:21:10.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="Z3MCfqFXQ6byajfKcsBa" version="20.0.3" type="github" pages="7">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3604" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -688,11 +688,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CEKpalH_2h4n6_P1-YVk-9" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#e3c800;strokeColor=#B09500;exitX=0.704;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;startArrow=none;" parent="2e_64IFEb6oXo00INaOW-1" source="FMaT5Ic2TsRxSHH4M47t-0" edge="1">
+        <mxCell id="CEKpalH_2h4n6_P1-YVk-9" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#e3c800;strokeColor=#B09500;exitX=0.704;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;startArrow=none;entryX=0.766;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" parent="2e_64IFEb6oXo00INaOW-1" source="FMaT5Ic2TsRxSHH4M47t-0" edge="1" target="2e_64IFEb6oXo00INaOW-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515" y="583.0000000000002" as="sourcePoint" />
             <mxPoint x="170" y="584.28" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="180" y="605" />
+              <mxPoint x="180" y="601" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CEKpalH_2h4n6_P1-YVk-11" value="Pieces processingNET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;rotation=90;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
@@ -776,18 +779,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FMaT5Ic2TsRxSHH4M47t-0" value="ETH" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
-          <mxGeometry x="250" y="570" width="30" height="30" as="geometry" />
+          <mxGeometry x="250" y="590" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FMaT5Ic2TsRxSHH4M47t-1" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;fillColor=#e3c800;strokeColor=#B09500;exitX=0.704;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="2e_64IFEb6oXo00INaOW-1" target="FMaT5Ic2TsRxSHH4M47t-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515" y="583.0000000000002" as="sourcePoint" />
             <mxPoint x="170" y="584.28" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="515" y="584.28" />
+              <mxPoint x="515" y="610" />
+              <mxPoint x="265" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FMaT5Ic2TsRxSHH4M47t-2" value="Calc_result(32bit)+GlassNo(32bit)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" parent="FMaT5Ic2TsRxSHH4M47t-1" connectable="0" vertex="1">
+        <mxCell id="FMaT5Ic2TsRxSHH4M47t-2" value="Piece_state, state_set" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" parent="FMaT5Ic2TsRxSHH4M47t-1" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FMaT5Ic2TsRxSHH4M47t-3" value="EIP" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#030303;fillColor=#FFFFFF;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
@@ -804,6 +808,21 @@
         </mxCell>
         <mxCell id="FMaT5Ic2TsRxSHH4M47t-12" value="Eth1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
           <mxGeometry x="430" y="80" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NwttTAEPQq4ddB-Rcyc8-0" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;exitX=0.737;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2e_64IFEb6oXo00INaOW-1" source="2e_64IFEb6oXo00INaOW-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="570" as="sourcePoint" />
+            <mxPoint x="515" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="580" />
+              <mxPoint x="500" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NwttTAEPQq4ddB-Rcyc8-1" value="ASK piece state" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NwttTAEPQq4ddB-Rcyc8-0">
+          <mxGeometry x="-0.3485" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
