@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:21:10.952Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="Z3MCfqFXQ6byajfKcsBa" version="20.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-07T20:37:27.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="4WFRKfKZPv0VDXZpYnCq" version="20.0.4" type="github" pages="7">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="3604" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3227" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,17 +143,17 @@
         <mxCell id="KYpOYc-SYpL99tiq2sUf-36" value="PC Platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2050" y="-889" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KYpOYc-SYpL99tiq2sUf-37" value="Inspection alive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2166" y="-1109" width="100" height="20" as="geometry" />
+        <mxCell id="KYpOYc-SYpL99tiq2sUf-37" value="Inspection RUN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2171" y="-1114" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYpOYc-SYpL99tiq2sUf-39" value="Inspection dead" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2166" y="-1069" width="100" height="20" as="geometry" />
+        <mxCell id="KYpOYc-SYpL99tiq2sUf-39" value="Inspection OFF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2171" y="-1074" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KYpOYc-SYpL99tiq2sUf-46" value="Application&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="-870" width="250" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="KYpOYc-SYpL99tiq2sUf-40" value="Glass NOK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2166" y="-1089" width="80" height="20" as="geometry" />
+        <mxCell id="KYpOYc-SYpL99tiq2sUf-40" value="Inspection RDY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2171" y="-1094" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KYpOYc-SYpL99tiq2sUf-45" value="HAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="-730" width="180" height="60" as="geometry" />
