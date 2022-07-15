@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:41:36.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="v0eBOmzyRR6t0Hh61Z8k" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T10:47:31.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="cdfy5Erk0WC-gb-qdEX8" version="20.0.4" type="github">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
     <mxGraphModel dx="746" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -37,11 +37,20 @@
         <mxCell id="yU-iuNaSgS-8RjuVKIp3-14" value="Operator&lt;br&gt;display" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="20" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="yU-iuNaSgS-8RjuVKIp3-15" value="HUB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yU-iuNaSgS-8RjuVKIp3-15" value="Ethernet HUB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yU-iuNaSgS-8RjuVKIp3-16" value="KVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yU-iuNaSgS-8RjuVKIp3-16" value="KVM Switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yU-iuNaSgS-8RjuVKIp3-18" value="Mitsubishi PLC rack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-60" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yU-iuNaSgS-8RjuVKIp3-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="-60" width="25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yU-iuNaSgS-8RjuVKIp3-20" value="Dual RS232" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="-30" width="72.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
