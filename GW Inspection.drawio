@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T22:18:17.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="BJD7dgJnD-mkQMnbRBCa" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-17T22:19:18.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="MHVTMQ9HJPOYo6t9OAA-" version="20.1.1" type="github" pages="4">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
     <mxGraphModel dx="746" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -351,7 +351,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jC0POVFx9CWXbqhsH1XS" name="Page-4">
+  <diagram id="jC0POVFx9CWXbqhsH1XS" name="architecture">
     <mxGraphModel dx="746" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -367,6 +367,15 @@
             <mxPoint x="250" y="159.5" as="sourcePoint" />
             <mxPoint x="330" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="axe-ecWmkTlKaLvPsmoK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="axe-ecWmkTlKaLvPsmoK-5" target="axe-ecWmkTlKaLvPsmoK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axe-ecWmkTlKaLvPsmoK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="axe-ecWmkTlKaLvPsmoK-5" target="axe-ecWmkTlKaLvPsmoK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axe-ecWmkTlKaLvPsmoK-5" value="ini file: Mitsubishi PLC&lt;br&gt;registers" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
