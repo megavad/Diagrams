@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:39:17.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="rJmkhhEWy8GJi_etJySv" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:40:29.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="rV2Dy-JSNpLbZ_fTXpXx" version="20.1.1" type="github" pages="7">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3227" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -87,11 +87,6 @@
         </mxCell>
         <mxCell id="KYpOYc-SYpL99tiq2sUf-22" value="Advantech IO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2050" y="-650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KYpOYc-SYpL99tiq2sUf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="KYpOYc-SYpL99tiq2sUf-33" target="KYpOYc-SYpL99tiq2sUf-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WYRKHpb4eX-soQupBR0w-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#030303;strokeColor=#6F0000;strokeWidth=1;fillColor=#a20025;" parent="1" source="KYpOYc-SYpL99tiq2sUf-23" target="KYpOYc-SYpL99tiq2sUf-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -194,18 +189,19 @@
             <mxPoint x="-2031" y="-1039" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KYpOYc-SYpL99tiq2sUf-33" value="A/B Encoder pulses signal line" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2226" y="-619" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DdvgU_Gv8MGtgM4htd2q-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="KYpOYc-SYpL99tiq2sUf-34" target="KYpOYc-SYpL99tiq2sUf-33">
+        <mxCell id="DdvgU_Gv8MGtgM4htd2q-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KYpOYc-SYpL99tiq2sUf-34" target="KYpOYc-SYpL99tiq2sUf-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2188" y="-559" />
               <mxPoint x="-2188" y="-599" />
+              <mxPoint x="-2050" y="-599" />
             </Array>
             <mxPoint x="-2186" y="-559" as="sourcePoint" />
-            <mxPoint x="-2050" y="-599" as="targetPoint" />
+            <mxPoint x="-2140" y="-600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DdvgU_Gv8MGtgM4htd2q-3" value="&lt;span style=&quot;&quot;&gt;A/B Encoder pulses signal line&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2240" y="-620" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
