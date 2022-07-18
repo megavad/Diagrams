@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:30:33.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="wALWDg2O_trzQVT9hRAq" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:38:05.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="0_bVuv0j-4amC5kn0pN3" version="20.1.1" type="github" pages="4">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
     <mxGraphModel dx="746" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -279,7 +279,12 @@
           <mxGeometry x="140" y="165" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FBM7MuUX7cR2KQ-Jm0hH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="FBM7MuUX7cR2KQ-Jm0hH-3" target="FBM7MuUX7cR2KQ-Jm0hH-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="330" />
+              <mxPoint x="550" y="185" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FBM7MuUX7cR2KQ-Jm0hH-3" value="Inspection PLC Mitsubishi&lt;br&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.ups_enterprise;" vertex="1" parent="1">
           <mxGeometry x="360" y="310" width="100" height="40" as="geometry" />
@@ -356,7 +361,7 @@
           <mxGeometry x="240" y="342.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FBM7MuUX7cR2KQ-Jm0hH-25" value="Old" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="235" width="40" height="30" as="geometry" />
+          <mxGeometry x="350" y="225" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l0x4xzCMQ3mw9MXhTNaQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#7EA6E0;strokeWidth=3;" edge="1" parent="1" source="l0x4xzCMQ3mw9MXhTNaQ-1" target="l0x4xzCMQ3mw9MXhTNaQ-11">
           <mxGeometry relative="1" as="geometry">
