@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:45:01.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="7NBgD2vbpWN9KL0mLztz" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:46:24.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="27bBUyKaj-u569zTGTRI" version="20.1.1" type="github" pages="7">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="3227" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="KYpOYc-SYpL99tiq2sUf-29" value="Ethernet/IP MLG2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2177" y="-745" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KYpOYc-SYpL99tiq2sUf-16" value="MLG2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="KYpOYc-SYpL99tiq2sUf-16" value="Sick MLG2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-2421" y="-669" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KYpOYc-SYpL99tiq2sUf-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;width=11;endSize=6.33;" parent="1" edge="1">
@@ -168,7 +168,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pPklBtH5Jq35X4aWWR5N-1" value="MMC PC w/recipes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;" parent="1" vertex="1">
+        <mxCell id="pPklBtH5Jq35X4aWWR5N-1" value="Bystronic MMC operator PC w/recipes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="-2050" y="-1119" width="331" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WYRKHpb4eX-soQupBR0w-9" value="Glass_presence&lt;br&gt;sensor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#030303;" parent="1" vertex="1">
