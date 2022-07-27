@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T13:56:51.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="iRUcxLw61b3XprWo_Ssk" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-27T13:58:30.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="nF7ZZq_r_LztL30Mp2C-" version="20.0.4" type="github" pages="3">
   <diagram name="Typical diagram" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="878" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1036,6 +1036,16 @@
           <mxGeometry x="0.3333" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="689.9999999999998" y="320.0000000000001" as="sourcePoint" />
             <mxPoint x="689.9999999999998" y="470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YrzYJ6RNLpnEvKqpaxs-3" value="Pump relay" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="300" y="830" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7YrzYJ6RNLpnEvKqpaxs-4" value="D8" style="endArrow=classic;html=1;fontSize=20;fontColor=#000000;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7YrzYJ6RNLpnEvKqpaxs-3">
+          <mxGeometry x="0.2308" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="710" as="sourcePoint" />
+            <mxPoint x="345" y="700" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
