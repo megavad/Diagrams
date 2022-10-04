@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T06:46:40.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="y6KyspAeDgIuaTHBT3lk" version="20.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-04T06:49:08.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="dN4bPrGX2ASTfFtZN7O6" version="20.2.3" type="github" pages="4">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
     <mxGraphModel dx="2131" dy="2640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -492,7 +492,7 @@
         <mxCell id="axe-ecWmkTlKaLvPsmoK-5" value="ini file: Mitsubishi PLC&lt;br&gt;registers" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="260" y="230" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="axe-ecWmkTlKaLvPsmoK-8" value="dictionary:&lt;br&gt;REG:VAL&lt;br&gt;3004:1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="axe-ecWmkTlKaLvPsmoK-8" value="std map dictionary:&lt;br&gt;REG:VAL&lt;br&gt;3004:1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="60" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="axe-ecWmkTlKaLvPsmoK-9" value="Siemens&lt;br&gt;PLC" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
