@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T12:45:48.954Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="dBc1Cg8VHO_vT8MxUdca" version="20.8.10" type="github"><diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">7Vptb6M4EP41+XgRYMzLx2263Ttpe6puV9ePkQMOsWIwMk6T3q8/GxwghnajNoFkFaS2ZjzYzDzzjO2hEzBLd984ylePLMZ04ljxbgLuJ45ju1Yg/yjJayXxXS1IOIm1UiP4Qf7DWmhp6YbEuDhQFIxRQfJDYcSyDEfiQIY4Z9tDtSWjh7PmKMEdwY8I0a70mcRipaW2ZTUdf2KSrPTUAdQdCxStE842mZ4vYxmuelK0H0arFisUs21LBL5OwIwzJqpWupthqty691j13MMbvfUrc5yJYx7wQhwt8TKCkWtj14n+sDVGhXjd+wHH0i36tjQF3JXGYTWGJe9WIqWyacsmRQtM72r7Z4wy3jyGs/iLAqaRFIKzde1eaf7dkmXiAaWEqqj5F/MYZUiLdYio9zOt1IYXbMMj/JZpOoYQT7B4QwdUOsrk1sDad98wS7Hgr1KBY4oEeTmMFKQDLqn1Gs/Lhnb+sUBUY74gutGzdIAhaRnBR/h/4oBleUkV/dQ9SRP5UpQs5O+IknyOuJDNDIst42uSqd5nIg3FRTH/h20E5nPbCXbyZ5rL3nYUqKnrUFYhEbGURLrdj/GvwXzBXODduzDoXtfXdNKZxvVgdb9teBtolVWbsdYZgHM6wP2VSd9Jv44A4IyyTXwe2PS7PrGCCMIyKYywMlR2KOSITKTfDQXBctmLKEl61b/ojgUTgqWy4wyhIZel8ULDDn/b5AqOSK7OxSRX0OHog8x0W6SeGpyj+6mHoimvovxNlqYkjpX1NVEpXooemtZ6Z6CpE45IU7cTHT/Rgg6VvyW4uVpsC9kmT+hM2fvzkEHrEDLfGhEy2IHsaTY8XI8sI4Lx+U+2vdzNkg0PcfPGXBG9Lm6clNuCwcHTE18LbO6YsPkXQbdnuYQWAqll61JR84FBNn9E1IIOao9sQSgeBjkhT5LS+ekmk5uIcquh1reV3KpeKniBscJBOCJ4YQe87yhXB6rBafc3FgvG1p9BrfUGVnn140kobWk+lFfPBlfd9414ihCwjaw75iZn/y6/Rwyck7nAMfam9piwHVHKawFlRP2svPqY4wWBfQdkT8JRTHDDAX3834vv5fky0me7jHFlfw8EEq1cvUy6S1Q5f6qPqMVU5ew5Jdl6Xh3cP1OROKr+8AFCv1ua0HvMd0sTepxfliZa8VN/B2gHUC08uoah53hicvfZCmBj6QGhEZmVxfqpJjg7A7nGQI45UOWWzkBllNeGfzDwu6XQW+B/KPBLPe20nm88x7AAXiMLjDTuBvY0hB50bB+ENrDgBzlhFJugFUwtF7h+4HhW4IXGsOdkSLcQeWPIgEvDfltwXawwzpRueBpWBAYr7NFY0S3A3lgxICvcaySFa+b005AiNIZ1RiNFt8R9I8WApPCvkRTQTOknIYX55QeC0UjR/X5wI8WApAiukRSemdJPQwqjUgjd0UjR/TpzI8WApAivkRTmkRichhTGAR7C85BC3jb/M1upN/+TDL7+Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-24T12:51:05.766Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="wBFuIilka5bBVxDv_ctg" version="20.8.10" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="2074" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-12" value="Modbus/TCP&lt;br&gt;Ethernet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="8JaOrQgvwe7hHYjEQXCQ-10">
+          <mxGeometry x="-0.0002" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-1" value="Dell PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="470" y="465" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-6" value="Аналоговый сигнал" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-1" target="8JaOrQgvwe7hHYjEQXCQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" vertex="1" parent="1">
+          <mxGeometry x="349" y="100" width="51" height="40.2" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Аналоговый сигнал&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-2" target="8JaOrQgvwe7hHYjEQXCQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="100" width="51" height="40.2" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-8" value="RTSP потоки&lt;br&gt;Ethernet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-3" target="69ecfefc5c41e42c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Harddrive_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="140.2" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-9" value="Вычислитель" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-13" value="4-20mA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-10" target="8JaOrQgvwe7hHYjEQXCQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-10" value="" style="image;html=1;image=img/lib/clip_art/computers/USB_Hub_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="660" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-11" value="Siemens" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_plc;" vertex="1" parent="1">
+          <mxGeometry x="870" y="250" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
