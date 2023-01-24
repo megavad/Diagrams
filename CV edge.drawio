@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T12:58:32.237Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="exhweEXqxWZqpQ_Stl3s" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T13:09:02.961Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="tXUfgoCtmTHPRxoeiecz" version="20.8.10" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="2074" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -25,19 +25,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-28" value="Альтернативный вариант посылки отклонения через Ethernet" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=1.026;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="69ecfefc5c41e42c-1" target="8JaOrQgvwe7hHYjEQXCQ-11">
+          <mxGeometry x="-0.28" y="-10" relative="1" as="geometry">
+            <mxPoint x="1000" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="680" />
+              <mxPoint x="1030" y="680" />
+              <mxPoint x="1030" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="69ecfefc5c41e42c-1" value="Dell" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="470" y="465" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-1" target="8JaOrQgvwe7hHYjEQXCQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" vertex="1" parent="1">
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-1" value="Аналоговая&lt;br&gt;камера левый край" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" vertex="1" parent="1">
           <mxGeometry x="349" y="100" width="51" height="40.2" as="geometry" />
         </mxCell>
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-2" target="8JaOrQgvwe7hHYjEQXCQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" vertex="1" parent="1">
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Аналоговая&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;камера правый край&lt;/span&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" vertex="1" parent="1">
           <mxGeometry x="630" y="100" width="51" height="40.2" as="geometry" />
         </mxCell>
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-8" value="RTSP потоки" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-3" target="69ecfefc5c41e42c-1">
@@ -52,7 +63,7 @@
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-13" value="4-20mA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-10" target="8JaOrQgvwe7hHYjEQXCQ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-10" value="" style="image;html=1;image=img/lib/clip_art/computers/USB_Hub_128x128.png" vertex="1" parent="1">
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-10" value="&#xa;&lt;h1 style=&quot;box-sizing: inherit; -webkit-font-smoothing: antialiased; text-size-adjust: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); font-size: var(--font-size-heading-1); margin: 0px 0px 0.5rem; font-family: Montserrat, sans-serif; font-style: normal; font-weight: 700; letter-spacing: normal; text-transform: none; line-height: 1.2; color: rgb(29, 29, 29); font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; text-indent: 0px; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;product-title&quot;&gt;ET-7204&lt;/h1&gt;&#xa;&#xa;" style="image;html=1;image=img/lib/clip_art/computers/USB_Hub_128x128.png" vertex="1" parent="1">
           <mxGeometry x="660" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-11" value="Siemens" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_plc;" vertex="1" parent="1">
@@ -102,12 +113,39 @@
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/keyboard-128.png" vertex="1" parent="1">
           <mxGeometry x="705.5" y="580" width="89" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-27" value="Клавиши I2C?" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
-          <mxGeometry x="-0.0909" y="-10" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-27" value="Клавиши I2C/USB HID" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry x="0.0909" y="-10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="310" as="sourcePoint" />
             <mxPoint x="300" y="310" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="240" y="310" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="350" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8JaOrQgvwe7hHYjEQXCQ-36">
+          <mxGeometry width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-30" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="8JaOrQgvwe7hHYjEQXCQ-36">
+          <mxGeometry x="96" y="35" width="20" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-31" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="8JaOrQgvwe7hHYjEQXCQ-36">
+          <mxGeometry x="65" y="10" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-32" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="8JaOrQgvwe7hHYjEQXCQ-36">
+          <mxGeometry x="65" y="65" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-33" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;direction=west;" vertex="1" parent="8JaOrQgvwe7hHYjEQXCQ-36">
+          <mxGeometry x="40" y="35" width="20" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-34" value="i" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="8JaOrQgvwe7hHYjEQXCQ-36">
+          <mxGeometry x="10" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-35" value="OK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8JaOrQgvwe7hHYjEQXCQ-36">
+          <mxGeometry x="62.5" y="33" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
