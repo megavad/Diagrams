@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T13:01:45.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="VRQBVuS6PXIHBOy51lTA" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-14T13:02:41.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="st3CsIEQ2CarfFTgP3d5" version="20.6.0" type="github" pages="2">
   <diagram name="Architercture" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="746" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="bqjCCw6araehrLSI5hQb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-1" target="bqjCCw6araehrLSI5hQb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-1" value="Аналоговая&lt;br&gt;камера левый край" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" parent="1" vertex="1">
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-1" value="CVBS cam L" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" parent="1" vertex="1">
           <mxGeometry x="210" y="80" width="51" height="40.2" as="geometry" />
         </mxCell>
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-2" target="bqjCCw6araehrLSI5hQb-5" edge="1">
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Аналоговая&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;камера правый край&lt;/span&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" parent="1" vertex="1">
+        <mxCell id="8JaOrQgvwe7hHYjEQXCQ-2" value="&lt;div style=&quot;orphans: 2; widows: 2;&quot;&gt;CVBS cam R&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/POE_DVS_Camera.svg;" parent="1" vertex="1">
           <mxGeometry x="819" y="80" width="51" height="40.2" as="geometry" />
         </mxCell>
         <mxCell id="8JaOrQgvwe7hHYjEQXCQ-8" value="RTSP потоки" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" source="8JaOrQgvwe7hHYjEQXCQ-3" target="69ecfefc5c41e42c-1" edge="1">
@@ -150,7 +150,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bqjCCw6araehrLSI5hQb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="bqjCCw6araehrLSI5hQb-3" target="bqjCCw6araehrLSI5hQb-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="202" />
+              <mxPoint x="396" y="202" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bqjCCw6araehrLSI5hQb-3" value="Сплиттер" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/modem.svg;" parent="1" vertex="1">
           <mxGeometry x="370" y="120.2" width="50" height="41.5" as="geometry" />
