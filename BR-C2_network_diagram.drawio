@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T06:47:33.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="IqzvQOIH9crioiOkP5At" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T06:49:02.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="CeBF68A0gBTbEHb38H0i" version="21.4.0" type="github">
   <diagram name="Page-1" id="WLB4W7FoqpOxXbgukPIv">
-    <mxGraphModel dx="2793" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,22 +139,22 @@
           <mxGeometry x="720" y="187" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LHUtdxbBdhvLTkgLUQPW-24" value="K000073_36 (D1)&lt;br&gt;(power supply 150A)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="85" width="130" height="40" as="geometry" />
+          <mxGeometry x="30" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LHUtdxbBdhvLTkgLUQPW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" parent="1" source="LHUtdxbBdhvLTkgLUQPW-25" target="LHUtdxbBdhvLTkgLUQPW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="555" />
-              <mxPoint x="230" y="640" />
+              <mxPoint x="170" y="555" />
+              <mxPoint x="170" y="640" />
               <mxPoint x="375" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LHUtdxbBdhvLTkgLUQPW-25" value="CPU exit line control 35&lt;br style=&quot;font-size: 14px;&quot;&gt;SLC 5/05 (1747-L551)&lt;br style=&quot;font-size: 14px;&quot;&gt;IP:&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;192.168.100.10&lt;/font&gt;&lt;/b&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.ups_enterprise;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="80" y="520" width="110" height="70" as="geometry" />
+          <mxGeometry x="30" y="517" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LHUtdxbBdhvLTkgLUQPW-26" value="K000073_35 (D)&lt;br&gt;(power supply 60A)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="65" y="477" width="130" height="40" as="geometry" />
+          <mxGeometry x="20" y="477" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LHUtdxbBdhvLTkgLUQPW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=8 8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -260,7 +260,7 @@
           <mxGeometry x="370" y="107" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LHUtdxbBdhvLTkgLUQPW-85" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" parent="1" vertex="1">
-          <mxGeometry x="720" y="600" width="100" height="100" as="geometry" />
+          <mxGeometry x="910" y="588" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LHUtdxbBdhvLTkgLUQPW-88" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
