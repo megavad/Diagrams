@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T14:31:43.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="4zMKeQoEiF2jBzJVl51Q" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-27T14:32:07.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Hk8pjky0fbMVvaIMw7U9" version="24.3.1" type="github" pages="2">
   <diagram name="Общая схема" id="ZSiE6AxcmBYcnqlNDIm1">
     <mxGraphModel dx="838" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,14 +126,14 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-41" value="Ethernet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="372" y="213" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-42" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="772.4" y="178.89" width="40" height="53" as="geometry" />
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-42" value="Трекер" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="775" y="98.49999999999999" width="40" height="53" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="SoimrYdb_fdH0d7RYcIz-44" target="SoimrYdb_fdH0d7RYcIz-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-44" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.loop_antenna;" parent="1" vertex="1">
-          <mxGeometry x="760" y="179.89" width="64.8" height="55.11" as="geometry" />
+          <mxGeometry x="760" y="189.95" width="64.8" height="55.11" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-46" value="Антенна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="235" width="70" height="30" as="geometry" />
