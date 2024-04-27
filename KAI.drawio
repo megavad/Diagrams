@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T14:15:14.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="d-4yKPI_xXygx_v4ul39" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T14:16:47.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="GoIIKK7w0-lmFB9LCV3t" version="24.3.0" type="github">
   <diagram name="Page-1" id="ZSiE6AxcmBYcnqlNDIm1">
     <mxGraphModel dx="986" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,18 +127,18 @@
           <mxGeometry x="372" y="213" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-42" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="774.4" y="18.5" width="40" height="53" as="geometry" />
+          <mxGeometry x="772.4" y="178.89" width="40" height="53" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="SoimrYdb_fdH0d7RYcIz-44" target="SoimrYdb_fdH0d7RYcIz-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-44" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.loop_antenna;" vertex="1" parent="1">
-          <mxGeometry x="762" y="15.110000000000014" width="64.8" height="69.78" as="geometry" />
+          <mxGeometry x="760" y="178.89" width="64.8" height="55.11" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-46" value="Radio" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="722" y="18.5" width="50" height="30" as="geometry" />
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-46" value="Антенна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="235" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-48" value="Ethernet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-48" value="Ethernet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="532" y="325" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -164,8 +164,8 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-53" value="Report scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="632" y="325" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-54" value="TAG data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="697" y="88" width="70" height="30" as="geometry" />
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-54" value="Данные с трекера" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-56" value="SQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="637" y="390" width="60" height="60" as="geometry" />
