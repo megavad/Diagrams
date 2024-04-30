@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T11:15:57.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="jbr1KLw9G5wrWKDGEDYy" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T11:17:18.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="7kMiCrFn0D6JocZrp29j" version="24.3.1" type="github" pages="2">
   <diagram name="Общая схема" id="ZSiE6AxcmBYcnqlNDIm1">
     <mxGraphModel dx="838" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,11 +100,11 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SoimrYdb_fdH0d7RYcIz-31" target="SoimrYdb_fdH0d7RYcIz-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-31" value="Fieldbus client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-31" value="Fieldbus CAN client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-32" value="CAN msg" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="272" y="208" width="70" height="40" as="geometry" />
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-32" value="CAN server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="208" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-33" value="AFI report reciever" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="60" width="120" height="20" as="geometry" />
