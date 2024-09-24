@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T11:17:18.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="7kMiCrFn0D6JocZrp29j" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="24.7.14" pages="2">
   <diagram name="Общая схема" id="ZSiE6AxcmBYcnqlNDIm1">
-    <mxGraphModel dx="838" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="927" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="SoimrYdb_fdH0d7RYcIz-4" target="SoimrYdb_fdH0d7RYcIz-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-4" value="16DI/40DO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-4" value="8DI/8DO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="272" y="110" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-23" value="Fieldbus IO&lt;div&gt;CAN&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-23" value="Fieldbus IO&lt;div&gt;TCP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="247" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-24" value="3DO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-28" value="3DI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="367" y="270" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChSsNdilINDhFM0MCsxQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="SoimrYdb_fdH0d7RYcIz-29" target="SoimrYdb_fdH0d7RYcIz-23">
+        <mxCell id="ChSsNdilINDhFM0MCsxQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="SoimrYdb_fdH0d7RYcIz-29" target="SoimrYdb_fdH0d7RYcIz-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -100,11 +100,14 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SoimrYdb_fdH0d7RYcIz-31" target="SoimrYdb_fdH0d7RYcIz-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-31" value="Fieldbus CAN client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-31" value="Modbus client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-32" value="CAN server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-32" value="MODBUS server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="208" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ihUe_raHFm2FelvtebOu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SoimrYdb_fdH0d7RYcIz-33" target="SoimrYdb_fdH0d7RYcIz-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-33" value="AFI report reciever" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="60" width="120" height="20" as="geometry" />
@@ -201,13 +204,13 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-75" value="Ввод-вывод" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="262" y="135" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChSsNdilINDhFM0MCsxQ-4" value="CAN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="302" y="60" width="50" height="30" as="geometry" />
+        <mxCell id="ChSsNdilINDhFM0MCsxQ-4" value="MODBUS TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="277" y="60" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChSsNdilINDhFM0MCsxQ-7" value="EQ-501" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChSsNdilINDhFM0MCsxQ-7" value="EQ-501" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="424" y="345" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChSsNdilINDhFM0MCsxQ-8" value="EQ-501" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ChSsNdilINDhFM0MCsxQ-8" value="EQ-501" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="424" y="375" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
