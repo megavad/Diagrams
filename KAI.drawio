@@ -106,9 +106,6 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-32" value="MODBUS server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="208" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ihUe_raHFm2FelvtebOu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SoimrYdb_fdH0d7RYcIz-33" target="SoimrYdb_fdH0d7RYcIz-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-33" value="AFI report reciever" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="60" width="120" height="20" as="geometry" />
         </mxCell>
@@ -162,8 +159,8 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-56" value="SQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="637" y="390" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-57" value="JSON" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" parent="1" vertex="1">
-          <mxGeometry x="572" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-57" value="JSON+ NTP sync" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" parent="1" vertex="1">
+          <mxGeometry x="542" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-59" value="TAG check task" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="392" y="80" width="120" height="60" as="geometry" />
