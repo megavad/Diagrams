@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T10:26:38.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="9MDCPmTDsu046CkyX5B8" version="22.1.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="24.7.17" pages="9">
   <diagram name="schema" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="5387" dy="2322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2288,10 +2288,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="86p3S7l_nPoH4AE4xKVU" name="Measuring">
-    <mxGraphModel dx="2906" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1091" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VNJ-TMpHg2GkMk57rzBi-0" />
         <mxCell id="VNJ-TMpHg2GkMk57rzBi-1" parent="VNJ-TMpHg2GkMk57rzBi-0" />
+        <mxCell id="34G7woWm7IggC9SujAna-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="VNJ-TMpHg2GkMk57rzBi-1">
+          <mxGeometry x="250" y="540" width="420" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="VNJ-TMpHg2GkMk57rzBi-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VNJ-TMpHg2GkMk57rzBi-1" source="VNJ-TMpHg2GkMk57rzBi-4" target="VNJ-TMpHg2GkMk57rzBi-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2345,7 +2348,7 @@
         <mxCell id="VNJ-TMpHg2GkMk57rzBi-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VNJ-TMpHg2GkMk57rzBi-1" source="VNJ-TMpHg2GkMk57rzBi-24" target="VNJ-TMpHg2GkMk57rzBi-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VNJ-TMpHg2GkMk57rzBi-24" value="Read MLG RLC" style="rounded=0;whiteSpace=wrap;html=1;" parent="VNJ-TMpHg2GkMk57rzBi-1" vertex="1">
+        <mxCell id="VNJ-TMpHg2GkMk57rzBi-24" value="Read MLG RLC - shared variables" style="rounded=0;whiteSpace=wrap;html=1;" parent="VNJ-TMpHg2GkMk57rzBi-1" vertex="1">
           <mxGeometry x="280" y="560" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VNJ-TMpHg2GkMk57rzBi-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="VNJ-TMpHg2GkMk57rzBi-1" source="VNJ-TMpHg2GkMk57rzBi-27" target="VNJ-TMpHg2GkMk57rzBi-29" edge="1">
@@ -2429,21 +2432,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="495" y="328" />
+              <mxPoint x="495" y="580" />
               <mxPoint x="495" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XG7w2yj5gf-JRjF0rWAH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="VNJ-TMpHg2GkMk57rzBi-1" source="XG7w2yj5gf-JRjF0rWAH-8" target="VNJ-TMpHg2GkMk57rzBi-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="575" y="598" />
-              <mxPoint x="458" y="598" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XG7w2yj5gf-JRjF0rWAH-8" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Update shared variable&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=0;" parent="VNJ-TMpHg2GkMk57rzBi-1" vertex="1">
-          <mxGeometry x="515" y="310" width="120" height="35" as="geometry" />
+          <mxGeometry x="515" y="560" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
