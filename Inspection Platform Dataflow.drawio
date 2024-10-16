@@ -757,13 +757,10 @@
           <mxGeometry x="60" y="80" width="10" height="680" as="geometry" />
         </mxCell>
         <mxCell id="2e_64IFEb6oXo00INaOW-5" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#FAFAFA;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
-          <mxGeometry x="110" y="80" width="10" height="660" as="geometry" />
+          <mxGeometry x="110" y="80" width="10" height="680" as="geometry" />
         </mxCell>
         <mxCell id="2e_64IFEb6oXo00INaOW-6" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
           <mxGeometry x="160" y="80" width="10" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="2e_64IFEb6oXo00INaOW-7" value="" style="line;strokeWidth=2;direction=south;html=1;fillColor=#FAFAFA;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
-          <mxGeometry x="210" y="80" width="10" height="680" as="geometry" />
         </mxCell>
         <mxCell id="2e_64IFEb6oXo00INaOW-8" value="PC tasks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAFAFA;" parent="2e_64IFEb6oXo00INaOW-1" vertex="1">
           <mxGeometry x="280" y="40" width="320" height="40" as="geometry" />
@@ -1116,8 +1113,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="83XGF_n4W-D-rVPDnWAN-11" value="Config&amp;nbsp;&lt;div&gt;Ask for SICK data&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" parent="83XGF_n4W-D-rVPDnWAN-10" connectable="0" vertex="1">
+        <mxCell id="83XGF_n4W-D-rVPDnWAN-11" value="Config EIP session&lt;div&gt;&amp;nbsp;for SICK data&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fillColor=#FAFAFA;" parent="83XGF_n4W-D-rVPDnWAN-10" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-64pGCbxsPAtjc0ni3-j-0" value="" style="line;strokeWidth=2;direction=west;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
+          <mxGeometry x="440" y="820" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-64pGCbxsPAtjc0ni3-j-1" value="Ethernet/IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2e_64IFEb6oXo00INaOW-1">
+          <mxGeometry x="490" y="808" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
