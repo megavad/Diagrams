@@ -1071,7 +1071,7 @@
             <mxPoint x="460" y="502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-68" value="calibration finished (OK/NOK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-68" value="calibration finished (OK/NOK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="464" y="480" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1086,7 +1086,7 @@
             <mxPoint x="453" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-71" value="Calibrate low" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-71" value="Calibrate low" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="195" y="438" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1104,13 +1104,13 @@
             <mxPoint x="460" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-76" value="calib. finished (LR,RR, RF,LF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-76" value="calib. finished (LR,RR, RF,LF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="462" y="578" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="570" as="sourcePoint" />
-            <mxPoint x="450" y="570" as="targetPoint" />
+            <mxPoint x="103" y="562.5" as="sourcePoint" />
+            <mxPoint x="453" y="562.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -1119,19 +1119,19 @@
             <mxPoint x="100" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-80" value="calib high result (LR, RR, RF, LF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-80" value="calib high result (LR, RR, RF, LF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="140" y="598" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-81" value="req to calibrate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="438" width="100" height="30" as="geometry" />
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-81" value="req to calibrate low" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="480" y="438" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-82" value="Calib. high" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="538" width="80" height="30" as="geometry" />
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-82" value="Calib. high" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="208" y="540" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-83" value="req to calibrate high" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-83" value="req to calibrate high" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="480" y="548" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-85" value="calib low result (LR, RR, RF, LF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-85" value="calib low result (LR, RR, RF, LF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="168" y="500" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-86" value="0. STARTUP INITIALIZED&lt;font color=&quot;#ff66b3&quot;&gt;*есть ещё не initialized! когда не определен адрес и роль(какой сосок доить) MFS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1263,7 +1263,7 @@
             <mxPoint x="466" y="627" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-120" value="IDLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-120" value="IDLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="515" y="598" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-121" value="GW 4QC MFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1308,8 +1308,8 @@
             <mxPoint x="476" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-132" value="Start milking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="338" y="1148" width="90" height="30" as="geometry" />
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-132" value="reqest to start milking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1148" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-134" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22calib%20result%20(LR%2C%20RR%2C%20RF%2C%20LF)%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22105%22%20y%3D%22568%22%20width%3D%22170%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="368" y="1210" width="20" height="30" as="geometry" />
@@ -1434,8 +1434,8 @@
         <mxCell id="Dy2k5P994RNGD3f_LMlE-176" value="Conductivity, 8uchars, temp 8uchars" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="1340" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-177" value="read flow, conductivity, temp, vacuum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="233" y="1328" width="220" height="30" as="geometry" />
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-177" value="reqest flow, conductivity, temp, vacuum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="228" y="1328" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-180" value="Wait till flow low" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="168" y="1400" width="102" height="40" as="geometry" />
@@ -1448,15 +1448,6 @@
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-182" value="Stop vacuum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="1440" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-184" value="vacuum states=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1470" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-187" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="478" y="1500" as="sourcePoint" />
-            <mxPoint x="218" y="1500" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-189" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1487,27 +1478,27 @@
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-196" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="221.5" y="1450" as="sourcePoint" />
-            <mxPoint x="474.5" y="1450" as="targetPoint" />
+            <mxPoint x="223.5" y="1490" as="sourcePoint" />
+            <mxPoint x="476.5" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-197" value="Stop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="335" y="1428" width="50" height="30" as="geometry" />
+          <mxGeometry x="335" y="1470" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-198" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="1460" as="sourcePoint" />
-            <mxPoint x="773" y="1458" as="targetPoint" />
+            <mxPoint x="480" y="1500" as="sourcePoint" />
+            <mxPoint x="773" y="1498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-199" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="1450" as="sourcePoint" />
-            <mxPoint x="650" y="1450" as="targetPoint" />
+            <mxPoint x="480" y="1490" as="sourcePoint" />
+            <mxPoint x="650" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-200" value="General stop,&amp;nbsp;14a08309x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1420" width="160" height="30" as="geometry" />
+          <mxGeometry x="474" y="1460" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-202" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1523,6 +1514,24 @@
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-204" value="IDLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="288" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-205" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="101" y="494.5" as="sourcePoint" />
+            <mxPoint x="451" y="494.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-206" value="req calibration results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="173" y="470" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-207" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="101" y="607" as="sourcePoint" />
+            <mxPoint x="451" y="607" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-208" value="req calibration results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="173" y="585" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
