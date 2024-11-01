@@ -879,7 +879,7 @@
         <mxCell id="Dy2k5P994RNGD3f_LMlE-3" value="MFS (LR, RR, RF, LF )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="713" y="40" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Dy2k5P994RNGD3f_LMlE-1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.433;exitY=-0.133;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Dy2k5P994RNGD3f_LMlE-87" target="Dy2k5P994RNGD3f_LMlE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="407" y="300" as="sourcePoint" />
             <mxPoint x="703" y="270" as="targetPoint" />
@@ -899,13 +899,13 @@
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="601" y="280" as="sourcePoint" />
+            <mxPoint x="601" y="320" as="sourcePoint" />
             <mxPoint x="600.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="771" y="290" as="sourcePoint" />
+            <mxPoint x="771" y="320" as="sourcePoint" />
             <mxPoint x="770.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -957,7 +957,7 @@
             <mxPoint x="763" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-23" value="Firmware request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-23" value="Firmware request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="433" y="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-25" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
@@ -996,8 +996,8 @@
             <mxPoint x="53" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-34" value="system state - ok/no can dev (0(4qc),1(mfs LR),2(RR),3(RF),4(LF))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="33" y="178" width="380" height="30" as="geometry" />
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-34" value="system state - ok/no can device&lt;div&gt;&amp;nbsp;(0(4qc),1(mfs LR),2(RR),3(RF),4(LF))&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="108" y="173" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-35" value="calibrated?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="443" y="228" width="80" height="30" as="geometry" />
@@ -1134,8 +1134,8 @@
         <mxCell id="Dy2k5P994RNGD3f_LMlE-85" value="calib low result (LR, RR, RF, LF)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="168" y="500" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-86" value="0. INIT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="393" width="60" height="30" as="geometry" />
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-86" value="0. STARTUP INITIALIZED&lt;font color=&quot;#ff66b3&quot;&gt;*есть ещё не initialized! когда не определен адрес и роль(какой сосок доить) MFS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="108" width="630" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-87" value="1. Calibration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="320" width="90" height="30" as="geometry" />
@@ -1429,7 +1429,7 @@
           <mxGeometry x="499" y="1314" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-172" value="T= (char1*0x100+char2)/100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="653" y="890" width="180" height="30" as="geometry" />
+          <mxGeometry x="590" y="1004" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-176" value="Conductivity, 8uchars, temp 8uchars" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="1340" width="220" height="30" as="geometry" />
@@ -1508,6 +1508,21 @@
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-200" value="General stop,&amp;nbsp;14a08309x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="474" y="1420" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-202" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="308" as="sourcePoint" />
+            <mxPoint x="410" y="308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-203" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="318" as="sourcePoint" />
+            <mxPoint x="409" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-204" value="IDLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="288" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
