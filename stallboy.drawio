@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.3">
-  <diagram name="Page-1" id="DQiwPlul8rODaZ9idR1y">
-    <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.3" pages="2">
+  <diagram name="Common model" id="DQiwPlul8rODaZ9idR1y">
+    <mxGraphModel dx="658" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-7" value="Прототип (оценка трудоемкости, материалоёмкости, изготовления, изготовление корпусных деталей)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="270" y="120" width="200" height="60" as="geometry" />
+          <mxGeometry x="260" y="120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-8" target="ChNeA1hL08W3Tv45A1AK-19">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-8" value="Проработка экспериментальной&lt;div&gt;схемотехники осей (ODrive-based)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-10" value="10.2024" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="538" width="70" height="30" as="geometry" />
@@ -58,27 +58,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-11" value="Проработка схемотехники зарядной установки AGM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ChNeA1hL08W3Tv45A1AK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="350" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-12" value="Проработка мониторинга заряда" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChNeA1hL08W3Tv45A1AK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-16" target="ChNeA1hL08W3Tv45A1AK-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T3flJFtCANlq7AjZzkL6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-16" target="T3flJFtCANlq7AjZzkL6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-16" value="Создание экспериментального sensorbar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ChNeA1hL08W3Tv45A1AK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-19" target="ChNeA1hL08W3Tv45A1AK-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="T3flJFtCANlq7AjZzkL6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-19" target="T3flJFtCANlq7AjZzkL6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="270" />
+              <mxPoint x="730" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-19" value="Интеграция в сеть CAN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-24" target="ChNeA1hL08W3Tv45A1AK-25">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +91,7 @@
           <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-25" value="HMI + получение задания&lt;div&gt;(ESP32+WiFi/App)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-25" target="ChNeA1hL08W3Tv45A1AK-19">
           <mxGeometry relative="1" as="geometry" />
@@ -96,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-31" value="Размещение электроники" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -108,7 +112,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-37" value="Подбор двигателей, редукторов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-39" value="Подтверждение точности позиционирования" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="660" y="120" width="120" height="60" as="geometry" />
@@ -120,8 +124,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ChNeA1hL08W3Tv45A1AK-42" value="Экспериментальная система заряда" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T3flJFtCANlq7AjZzkL6-1" value="Обкатка на тестовой модели" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T3flJFtCANlq7AjZzkL6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T3flJFtCANlq7AjZzkL6-1" target="ChNeA1hL08W3Tv45A1AK-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="190" />
+              <mxPoint x="640" y="190" />
+              <mxPoint x="640" y="159" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3flJFtCANlq7AjZzkL6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ChNeA1hL08W3Tv45A1AK-12" target="ChNeA1hL08W3Tv45A1AK-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gvKyE9CmvKzYFkRHO_VB" name="Positioning">
+    <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
