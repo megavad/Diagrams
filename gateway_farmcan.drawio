@@ -1049,7 +1049,7 @@
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-52" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="620" as="sourcePoint" />
+            <mxPoint x="100" y="640" as="sourcePoint" />
             <mxPoint x="100" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1112,15 +1112,6 @@
             <mxPoint x="103" y="562.5" as="sourcePoint" />
             <mxPoint x="453" y="562.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-79" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="620" as="sourcePoint" />
-            <mxPoint x="100" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dy2k5P994RNGD3f_LMlE-80" value="calib high result (LR, RR, RF, LF), cell constant high" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" parent="1" vertex="1">
-          <mxGeometry x="90" y="598" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-81" value="req to calibrate low" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="480" y="438" width="120" height="30" as="geometry" />
@@ -1260,7 +1251,7 @@
         <mxCell id="Dy2k5P994RNGD3f_LMlE-118" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#007FFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="646" y="627" as="sourcePoint" />
-            <mxPoint x="466" y="627" as="targetPoint" />
+            <mxPoint x="460" y="627" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-120" value="IDLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007FFF;" parent="1" vertex="1">
@@ -1528,7 +1519,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-208" value="req calibration results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" parent="1" vertex="1">
-          <mxGeometry x="173" y="585" width="140" height="30" as="geometry" />
+          <mxGeometry x="183" y="585" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.409;exitY=1.1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1626,6 +1617,15 @@
         </mxCell>
         <mxCell id="Dy2k5P994RNGD3f_LMlE-238" value="IDLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007FFF;" parent="1" vertex="1">
           <mxGeometry x="493" y="1530" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dy2k5P994RNGD3f_LMlE-80" value="calib high result (LR, RR, RF, LF), cell constant (high, 2 bytes)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" parent="1" vertex="1">
+          <mxGeometry x="101" y="608" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o3T7pkMQfVAxqH91GBjo-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="630" as="sourcePoint" />
+            <mxPoint x="100" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
