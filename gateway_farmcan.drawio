@@ -1621,7 +1621,7 @@
         <mxCell id="Dy2k5P994RNGD3f_LMlE-80" value="calib high result (LR, RR, RF, LF), cell constant (high, 2 bytes)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF66B3;" parent="1" vertex="1">
           <mxGeometry x="101" y="608" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o3T7pkMQfVAxqH91GBjo-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="o3T7pkMQfVAxqH91GBjo-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="630" as="sourcePoint" />
             <mxPoint x="100" y="630" as="targetPoint" />
