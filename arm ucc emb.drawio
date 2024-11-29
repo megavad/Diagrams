@@ -210,7 +210,7 @@
         <mxCell id="cXtdcIw0JKKQN8xH4usp-59" value="&lt;font color=&quot;#ff3399&quot;&gt;teat&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3399&quot;&gt;coords&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="778" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cXtdcIw0JKKQN8xH4usp-60" value="&lt;div&gt;fcan.c (farmcan server)&lt;/div&gt;&lt;font color=&quot;#ff3399&quot;&gt;Teatfollower.c (Lidar data)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#007fff&quot;&gt;Teatattachment.c (MFS vacuum)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff66ff&quot;&gt;CowfollowerClient.c (IFM camera)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;teatcameraclient.c(?)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;TDSController.c (4QC)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Milkanimal.c (фазы доения?)&lt;/div&gt;&lt;div&gt;LogSender.c (log)&lt;/div&gt;&lt;div&gt;inout.c (IO)&lt;/div&gt;&lt;div&gt;PLCClient.c (festo coords, festo IO)&lt;/div&gt;&lt;div&gt;robothandler.c (?)&lt;/div&gt;&lt;div&gt;staticpositioner.c (?)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#006600&quot;&gt;drainhoses.c (?)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;t&lt;font color=&quot;#006600&quot;&gt;eatcleaner.c (?)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#006600&quot;&gt;teatdesinfector.c (?)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;HandleFOU.c (FOU messages)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cXtdcIw0JKKQN8xH4usp-60" value="&lt;div&gt;fcan.c (farmcan server)&lt;/div&gt;&lt;font color=&quot;#ff3399&quot;&gt;Teatfollower.c (Lidar data)&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#007fff&quot;&gt;Teatattachment.c (MFS vacuum)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff66ff&quot;&gt;CowfollowerClient.c (IFM camera)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;teatcameraclient.c(?)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;TDSController.c (4QC)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Milkanimal.c (фазы доения)&lt;/div&gt;&lt;div&gt;LogSender.c (log)&lt;/div&gt;&lt;div&gt;inout.c (IO)&lt;/div&gt;&lt;div&gt;PLCClient.c (festo coords, festo IO)&lt;/div&gt;&lt;div&gt;robothandler.c (?)&lt;/div&gt;&lt;div&gt;staticpositioner.c (?)&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#006600&quot;&gt;drainhoses.c (?)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;t&lt;font color=&quot;#006600&quot;&gt;eatcleaner.c (?)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#006600&quot;&gt;teatdesinfector.c (?)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3399ff&quot;&gt;HandleFOU.c (FOU messages)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="450" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -284,6 +284,15 @@
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-79" value="AlarmUnit&lt;div&gt;Crystal data collector (1.5)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXtdcIw0JKKQN8xH4usp-81" value="Фазы доения:&amp;nbsp;&lt;div&gt;животное в роботе,&amp;nbsp;&lt;/div&gt;&lt;div&gt;животное готово к доению,&amp;nbsp;&lt;div&gt;животное доится,&lt;/div&gt;&lt;div&gt;животное закончило доиться,&lt;/div&gt;&lt;div&gt;arm в позиции промывки,&lt;/div&gt;&lt;div&gt;выпуск животного,&lt;/div&gt;&lt;div&gt;животное выпущено,&lt;/div&gt;&lt;div&gt;ожидание нового животного&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cXtdcIw0JKKQN8xH4usp-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.857;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.016;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cXtdcIw0JKKQN8xH4usp-60" target="cXtdcIw0JKKQN8xH4usp-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="460" as="sourcePoint" />
+            <mxPoint x="530" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
