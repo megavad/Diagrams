@@ -22,7 +22,7 @@
         <mxCell id="cXtdcIw0JKKQN8xH4usp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cXtdcIw0JKKQN8xH4usp-3" target="cXtdcIw0JKKQN8xH4usp-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXtdcIw0JKKQN8xH4usp-3" value="UCC FW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="cXtdcIw0JKKQN8xH4usp-3" value="arm UCC FW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="20" y="100" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-4" value="MFS (FW)&lt;div&gt;MFS (FW)&lt;/div&gt;&lt;div&gt;MFS (FW)&lt;/div&gt;&lt;div&gt;MFS (FW)&lt;/div&gt;&lt;div&gt;4QC (FW)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,13 +37,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-8" value="Festo Drives&lt;div&gt;X, Y, Z&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="cXtdcIw0JKKQN8xH4usp-9" target="cXtdcIw0JKKQN8xH4usp-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXtdcIw0JKKQN8xH4usp-9" value="FESTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="cXtdcIw0JKKQN8xH4usp-9" value="FESTO arm PLC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-12" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-36" value="Drives&lt;div&gt;X, Y, Z&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXtdcIw0JKKQN8xH4usp-39" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
