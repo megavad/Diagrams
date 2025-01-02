@@ -392,12 +392,6 @@
         <mxCell id="SwVkTzaGjVD_av5v3ikb-29" value="AlarmUnit&lt;div&gt;Crystal data collector (1.5)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SwVkTzaGjVD_av5v3ikb-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.857;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.016;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="550" as="sourcePoint" />
-            <mxPoint x="307" y="543" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SwVkTzaGjVD_av5v3ikb-31" value="EtherCAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="408" width="80" height="30" as="geometry" />
         </mxCell>
