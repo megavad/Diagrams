@@ -390,7 +390,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="N3pUm7p90FJcVuSx3z2J" name="Network part">
+  <diagram id="N3pUm7p90FJcVuSx3z2J" name="Network part HMI C#">
     <mxGraphModel dx="1122" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -576,10 +576,10 @@
         <mxCell id="gOTXcioz-a9vr8fEKwu8-62" value="&lt;div&gt;CMD object&lt;/div&gt;NewCommand:boool&lt;div&gt;Command: enum&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="255" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-64" value="Существующие" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-64" value="&lt;span style=&quot;color: rgb(0, 204, 0);&quot;&gt;Существующие&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="86" y="198.75" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-66" value="новые" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-66" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;новые&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="527.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-67" value="IP&lt;div&gt;Alarm&lt;/div&gt;&lt;div&gt;Run&lt;/div&gt;&lt;div&gt;Washing&lt;/div&gt;&lt;div&gt;Stopped&lt;/div&gt;&lt;div&gt;Paused&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -594,8 +594,8 @@
         <mxCell id="Av2cZylkJotKewN2KKm--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Av2cZylkJotKewN2KKm--3" target="gOTXcioz-a9vr8fEKwu8-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="623" />
-              <mxPoint x="810" y="490" />
+              <mxPoint x="800" y="623" />
+              <mxPoint x="800" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
