@@ -396,7 +396,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gOTXcioz-a9vr8fEKwu8-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="45" y="140" width="190" height="320" as="geometry" />
+          <mxGeometry x="45" y="150" width="190" height="420" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-7" target="gOTXcioz-a9vr8fEKwu8-8">
           <mxGeometry relative="1" as="geometry" />
@@ -437,7 +437,12 @@
         <mxCell id="gOTXcioz-a9vr8fEKwu8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-8" target="gOTXcioz-a9vr8fEKwu8-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-8" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;sender multicast timer /1 sec&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-8" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;updateAPML timer /1 sec&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="380" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-8" target="gOTXcioz-a9vr8fEKwu8-8">
@@ -502,8 +507,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-45" value="New thread" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gOTXcioz-a9vr8fEKwu8-44">
+          <mxGeometry x="0.2261" relative="1" as="geometry">
+            <mxPoint x="29" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-43" value="Start multicast thread&lt;div&gt;with passed object reference (robot states)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-48" value="&lt;div&gt;APML command receiver thread with passed object reference (robot commands)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
