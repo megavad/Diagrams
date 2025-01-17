@@ -416,25 +416,25 @@
         <mxCell id="gOTXcioz-a9vr8fEKwu8-2" value="initializeTimers()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-3" target="gOTXcioz-a9vr8fEKwu8-16">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-3" target="gOTXcioz-a9vr8fEKwu8-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-3" value="&lt;br&gt;&lt;div&gt;engineer mode timer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-4" target="gOTXcioz-a9vr8fEKwu8-18">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-4" target="gOTXcioz-a9vr8fEKwu8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-4" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;weekly reset timer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-5" target="gOTXcioz-a9vr8fEKwu8-19">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-5" target="gOTXcioz-a9vr8fEKwu8-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-5" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;timeUpdate timer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-8" target="gOTXcioz-a9vr8fEKwu8-20">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-8" target="gOTXcioz-a9vr8fEKwu8-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-8" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);&quot;&gt;sender multicast timer /1 sec&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -455,41 +455,55 @@
         <mxCell id="gOTXcioz-a9vr8fEKwu8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-20" target="gOTXcioz-a9vr8fEKwu8-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-20" value="Reset mode function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-20" value="Reset mode function" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="270" y="385" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-25" target="gOTXcioz-a9vr8fEKwu8-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-25" value="Start multicast thread&lt;div&gt;with passed object reference (robot states)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-27" target="gOTXcioz-a9vr8fEKwu8-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-27" value="Socket subscription to mcast group on windows IP interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="222.5" width="120" height="50" as="geometry" />
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-27" value="Socket subscription to mcast group on windows IP interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="70" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-29" target="gOTXcioz-a9vr8fEKwu8-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-29" value="send object to mcast group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="300" width="120" height="40" as="geometry" />
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-29" value="send object to mcast group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="147.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gOTXcioz-a9vr8fEKwu8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-32" target="gOTXcioz-a9vr8fEKwu8-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-32" value="unsubscribe sender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="120" height="40" as="geometry" />
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-32" value="unsubscribe sender" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="217.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-33" target="gOTXcioz-a9vr8fEKwu8-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-33" value="Update robot states object from variables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-33" value="Update robot states object from variables" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="70" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gOTXcioz-a9vr8fEKwu8-35" value="finish thread" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-35" target="gOTXcioz-a9vr8fEKwu8-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-35" value="finish thread" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-39" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="625" y="347.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gOTXcioz-a9vr8fEKwu8-43" target="gOTXcioz-a9vr8fEKwu8-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="170" />
+              <mxPoint x="570" y="50" />
+              <mxPoint x="650" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gOTXcioz-a9vr8fEKwu8-43" value="Start multicast thread&lt;div&gt;with passed object reference (robot states)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
