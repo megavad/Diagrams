@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="24.7.14" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="26.2.13" pages="2">
   <diagram name="Общая схема" id="ZSiE6AxcmBYcnqlNDIm1">
-    <mxGraphModel dx="927" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="927" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoimrYdb_fdH0d7RYcIz-23" value="Fieldbus IO&lt;div&gt;TCP&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SoimrYdb_fdH0d7RYcIz-23" value="Fieldbus IO&lt;div&gt;TCP/485&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="247" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SoimrYdb_fdH0d7RYcIz-24" value="3DO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -201,8 +201,8 @@
         <mxCell id="SoimrYdb_fdH0d7RYcIz-75" value="Ввод-вывод" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="262" y="135" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ChSsNdilINDhFM0MCsxQ-4" value="MODBUS TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="277" y="60" width="100" height="30" as="geometry" />
+        <mxCell id="ChSsNdilINDhFM0MCsxQ-4" value="MODBUS RTU/485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="232" y="54.89" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ChSsNdilINDhFM0MCsxQ-7" value="EQ-501" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="424" y="345" width="90" height="30" as="geometry" />
@@ -214,7 +214,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6MDHZLKpCnEGf1IAVbjo" name="Dataflow">
-    <mxGraphModel dx="838" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="927" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
