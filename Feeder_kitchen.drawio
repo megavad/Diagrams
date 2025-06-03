@@ -1,9 +1,126 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="27.0.5">
-  <diagram name="Page-1" id="Sw7cjAlXmsRBfZZoZjWT">
-    <mxGraphModel>
+  <diagram name="Main_concept" id="Sw7cjAlXmsRBfZZoZjWT">
+    <mxGraphModel dx="946" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="R1cpTdT56Dwep472Y0fL-24" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="710" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-1" value="Кухня&lt;div&gt;Шкаф управления&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="280" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-2" target="R1cpTdT56Dwep472Y0fL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-18" value="RS485" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R1cpTdT56Dwep472Y0fL-7">
+          <mxGeometry x="-0.4947" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-2" value="ПЛК" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-3" target="R1cpTdT56Dwep472Y0fL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-3" value="ПЧ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-4" value="ПЧ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-5" target="R1cpTdT56Dwep472Y0fL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-5" value="ПЧ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-10" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-11" value="Кормораздатчик&lt;div&gt;Шкаф Управления&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="250" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-12" value="" style="points=[[0,0.58,0],[0.09,0.58,0],[0.36,0.39,0],[0.64,0.195,0],[0.91,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0,1,0],[0.09,1,0],[0.36,1,0],[0.64,1,0],[0.91,1,0],[0,0.79,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wifi_indicator;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-13" target="R1cpTdT56Dwep472Y0fL-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-14" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE200_POE.svg;" vertex="1" parent="1">
+          <mxGeometry y="160" width="40.2" height="56.4" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-16" value="Сеть предприятия" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-17" value="Ethernet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-19" value="ПЛК" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-26" target="R1cpTdT56Dwep472Y0fL-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="400" />
+              <mxPoint x="480" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-26" value="Зарядные&lt;div&gt;рельсы&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#FF0000);strokeColor=light-dark(#000000,#FF3333);" vertex="1" parent="1">
+          <mxGeometry x="410" y="163.20000000000002" width="60" height="363.6" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-20" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#33FFFF);strokeColor=light-dark(#000000,#007FFF);" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-21" value="WiFi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#66B2FF);" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-23" value="Система рецептов&lt;div&gt;HMI&lt;/div&gt;&lt;div&gt;Alarms&lt;/div&gt;&lt;div&gt;Синхронизация с кухней&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="216.4" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-25" value="&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); display: inline !important;&quot;&gt;Зона действия&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); display: inline !important;&quot;&gt;WiFi&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-27" target="R1cpTdT56Dwep472Y0fL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-27" value="Система питания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-32" target="R1cpTdT56Dwep472Y0fL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="360" />
+              <mxPoint x="200" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-32" value="Система питания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#FF0000);" edge="1" parent="1" source="R1cpTdT56Dwep472Y0fL-32" target="R1cpTdT56Dwep472Y0fL-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="383" />
+              <mxPoint x="320" y="383" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R1cpTdT56Dwep472Y0fL-36" value="Стартовая позиция" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#33FF33);" vertex="1" parent="1">
+          <mxGeometry x="410" y="103.2" width="60" height="56.8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
