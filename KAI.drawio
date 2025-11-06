@@ -787,8 +787,8 @@
         <mxCell id="caVZsgikIimYZdWKRC7--1" value="relay 8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="259" y="109.89" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="caVZsgikIimYZdWKRC7--2" value="DI1,&lt;div&gt;DI2&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="caVZsgikIimYZdWKRC7--2" value="DI1-DGND,&lt;div&gt;DI2-DGND&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
