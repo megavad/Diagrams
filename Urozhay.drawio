@@ -98,7 +98,7 @@
         <mxCell id="9Vli-bCbQJat1Q8ghpv_-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=10.8;" value="SMB v3&lt;div&gt;Логи&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="570" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="9Vli-bCbQJat1Q8ghpv_-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VNC viewer" vertex="1">
+        <mxCell id="9Vli-bCbQJat1Q8ghpv_-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="vncShow.py" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="640" as="geometry" />
         </mxCell>
         <mxCell id="9Vli-bCbQJat1Q8ghpv_-26" edge="1" parent="1" source="9Vli-bCbQJat1Q8ghpv_-25" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
