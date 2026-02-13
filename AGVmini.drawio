@@ -112,7 +112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9a9_0dowxMytpreNd7ht-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="IO safety" vertex="1">
+        <mxCell id="9a9_0dowxMytpreNd7ht-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="IO safety&lt;div&gt;E-stop&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="350" as="geometry" />
         </mxCell>
         <mxCell id="9a9_0dowxMytpreNd7ht-40" edge="1" parent="1" source="9a9_0dowxMytpreNd7ht-22" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;" target="9a9_0dowxMytpreNd7ht-38" value="">
