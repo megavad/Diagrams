@@ -478,7 +478,7 @@
             <mxPoint x="293.5" y="616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MIcNWfqu2G7UR8mHNEVn-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#0000FF);" value="Backups schedler" vertex="1">
+        <mxCell id="MIcNWfqu2G7UR8mHNEVn-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#0000FF);" value="Backups scheduler" vertex="1">
           <mxGeometry height="20" width="170" x="238" y="640" as="geometry" />
         </mxCell>
       </root>
