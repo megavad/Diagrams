@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" pages="2">
   <diagram name="Common" id="kNre07OXL5QUW6hjHVb_">
     <mxGraphModel dx="1248" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -480,6 +480,84 @@
         </mxCell>
         <mxCell id="MIcNWfqu2G7UR8mHNEVn-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#0000FF);" value="Backups scheduler" vertex="1">
           <mxGeometry height="20" width="170" x="238" y="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xTF2peg6YrRJVvaR6qfd" name="Net topo">
+    <mxGraphModel dx="1248" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K1cZCk0ERDUdKGoL1Y4_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="225" x="65" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-10" edge="1" parent="1" source="K1cZCk0ERDUdKGoL1Y4_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="K1cZCk0ERDUdKGoL1Y4_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-11" edge="1" parent="1" source="K1cZCk0ERDUdKGoL1Y4_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="L-5BkbjM6P4iMKe_tsTY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="265" />
+              <mxPoint x="320" y="230" />
+              <mxPoint x="429" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-12" edge="1" parent="1" source="K1cZCk0ERDUdKGoL1Y4_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="K1cZCk0ERDUdKGoL1Y4_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="265" />
+              <mxPoint x="310" y="288" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-13" edge="1" parent="1" source="K1cZCk0ERDUdKGoL1Y4_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="K1cZCk0ERDUdKGoL1Y4_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="265" />
+              <mxPoint x="40" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K1cZCk0ERDUdKGoL1Y4_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Microtik" vertex="1">
+          <mxGeometry height="30" width="225" x="65" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="K1cZCk0ERDUdKGoL1Y4_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lenovo server 1" vertex="1">
+          <mxGeometry height="30" width="225" x="65" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="K1cZCk0ERDUdKGoL1Y4_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DLink" vertex="1">
+          <mxGeometry height="30" width="225" x="65" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="K1cZCk0ERDUdKGoL1Y4_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="R1" vertex="1">
+          <mxGeometry height="30" width="30" x="340" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="280" x="540" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Типовой робот &amp;lt;2.0" vertex="1">
+          <mxGeometry height="30" width="70" x="540" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Main UCC&lt;div&gt;10.121.123.x&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arm UCC&lt;div&gt;10.121.123.[x+1]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;HMI&lt;/div&gt;&lt;div&gt;10.121.123.[x+2]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;PLC Arm CPX&lt;/div&gt;&lt;div&gt;10.121.123.[x+3]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;3D Camera&lt;/div&gt;&lt;div&gt;10.121.123.[x+4]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="R24" vertex="1">
+          <mxGeometry height="30" width="30" x="414" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L-5BkbjM6P4iMKe_tsTY-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="..." vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="255" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
