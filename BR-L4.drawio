@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="FLNNC7zAF72Di-1g2BBo">
+    <mxGraphModel dx="819" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rxNiwTq9cUolJK4r1NS--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="430" x="180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--9" edge="1" parent="1" source="rxNiwTq9cUolJK4r1NS--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rxNiwTq9cUolJK4r1NS--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mitsubishi&lt;div&gt;PLC/BR-L4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--10" edge="1" parent="1" source="rxNiwTq9cUolJK4r1NS--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rxNiwTq9cUolJK4r1NS--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--11" edge="1" parent="1" source="rxNiwTq9cUolJK4r1NS--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rxNiwTq9cUolJK4r1NS--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kepware/OPC UA" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--12" edge="1" parent="1" source="rxNiwTq9cUolJK4r1NS--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rxNiwTq9cUolJK4r1NS--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="DB" vertex="1">
+          <mxGeometry height="80" width="60" x="210" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--16" edge="1" parent="1" source="rxNiwTq9cUolJK4r1NS--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="rxNiwTq9cUolJK4r1NS--15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="backend" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--13" edge="1" parent="1" source="rxNiwTq9cUolJK4r1NS--7" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="rxNiwTq9cUolJK4r1NS--3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="100" />
+            </Array>
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Возможный альтернативный вариант получения оперативных данных - ascii протокол mitsu, известный мне по проекту BR-L6" vertex="1">
+          <mxGeometry height="30" width="220" x="304" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rxNiwTq9cUolJK4r1NS--15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GUI" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
