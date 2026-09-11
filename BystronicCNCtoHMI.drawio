@@ -88,12 +88,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaiCePTkx2mibbqw1gJn-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MMC threads" vertex="1">
-          <mxGeometry height="30" width="60" x="30" y="10" as="geometry" />
+          <mxGeometry height="30" width="60" x="70" y="10" as="geometry" />
         </mxCell>
         <mxCell id="KaiCePTkx2mibbqw1gJn-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="20" y="40" as="sourcePoint" />
-            <mxPoint x="90" y="40" as="targetPoint" />
+            <mxPoint x="60" y="38.82" as="sourcePoint" />
+            <mxPoint x="130" y="38.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaiCePTkx2mibbqw1gJn-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CNCRead sub(1/200ms)" vertex="1">
@@ -276,8 +276,8 @@
         </mxCell>
         <mxCell id="KaiCePTkx2mibbqw1gJn-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="650" y="38.82" as="sourcePoint" />
-            <mxPoint x="780" y="38.82" as="targetPoint" />
+            <mxPoint x="610" y="40" as="sourcePoint" />
+            <mxPoint x="870" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KaiCePTkx2mibbqw1gJn-47" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
@@ -382,9 +382,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaiCePTkx2mibbqw1gJn-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Line PLC&lt;div&gt;Rockwell&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="900" y="10" as="geometry" />
+          <mxGeometry height="30" width="60" x="920" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="KaiCePTkx2mibbqw1gJn-72" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="KaiCePTkx2mibbqw1gJn-72" edge="1" parent="1" source="KaiCePTkx2mibbqw1gJn-71" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="865" y="40" as="sourcePoint" />
             <mxPoint x="995" y="40" as="targetPoint" />
