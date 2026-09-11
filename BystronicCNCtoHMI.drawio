@@ -262,7 +262,7 @@
             <mxPoint x="500" y="165.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaiCePTkx2mibbqw1gJn-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tool value" vertex="1">
+        <mxCell id="KaiCePTkx2mibbqw1gJn-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tool Data Values(ABCD)" vertex="1">
           <mxGeometry height="30" width="60" x="390" y="130" as="geometry" />
         </mxCell>
         <mxCell id="KaiCePTkx2mibbqw1gJn-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="COM filtering" vertex="1">
