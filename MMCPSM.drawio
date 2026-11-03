@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HwpFhP8OR49J5zIXAR9-">
+    <mxGraphModel dx="916" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="500" x="190" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-21" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="4g8rTIfvktVvEkrBhBrj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="HMI (rsview&lt;div&gt;/siemens)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-16" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="374" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="MMCpsm" vertex="1">
+          <mxGeometry height="80" width="80" x="334" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MMCksm" vertex="1">
+          <mxGeometry height="80" width="90" x="580" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CNC PSM" vertex="1">
+          <mxGeometry height="80" width="80" x="310" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ПК/windows" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-14" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=classic;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-9" value="">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-15" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-12">
+          <mxGeometry relative="1" x="0.0049" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VSPE&lt;div&gt;serial port splitter/emulator&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="310" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="COM1" vertex="1">
+          <mxGeometry height="30" width="120" x="190" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-23" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="COM2" vertex="1">
+          <mxGeometry height="30" width="120" x="310" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="COM3" vertex="1">
+          <mxGeometry height="30" width="120" x="430" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="COM4" vertex="1">
+          <mxGeometry height="30" width="120" x="550" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="COM5(virtual)" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Grinding wheel ODO&lt;div&gt;python script&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="430" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-18" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.842;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-12">
+          <mxGeometry relative="1" x="-0.0079" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rockwell LINE PLC" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-22" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-19">
+          <mxGeometry relative="1" x="0.0049" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ethernet" vertex="1">
+          <mxGeometry height="50" width="90" x="190" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-24" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="4g8rTIfvktVvEkrBhBrj-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="320" />
+              <mxPoint x="475" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
