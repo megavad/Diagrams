@@ -32,7 +32,7 @@
         <mxCell id="4g8rTIfvktVvEkrBhBrj-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ПК/windows" vertex="1">
           <mxGeometry height="30" width="60" x="630" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="4g8rTIfvktVvEkrBhBrj-14" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=classic;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-9" value="">
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-14" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-9" value="">
           <mxGeometry relative="1" x="0.4" as="geometry" />
         </mxCell>
         <mxCell id="4g8rTIfvktVvEkrBhBrj-15" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-12">
@@ -74,7 +74,7 @@
         <mxCell id="4g8rTIfvktVvEkrBhBrj-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ethernet" vertex="1">
           <mxGeometry height="50" width="90" x="190" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="4g8rTIfvktVvEkrBhBrj-24" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="4g8rTIfvktVvEkrBhBrj-10">
+        <mxCell id="4g8rTIfvktVvEkrBhBrj-24" edge="1" parent="1" source="4g8rTIfvktVvEkrBhBrj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;startArrow=classicThin;startFill=0;" target="4g8rTIfvktVvEkrBhBrj-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="625" y="320" />
