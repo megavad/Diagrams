@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Page-1" id="EbyHOnieCLPxA2KVb257">
+    <mxGraphModel dx="916" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aoptek PC&lt;div&gt;SMB 3.0 (user expert)&lt;/div&gt;&lt;div&gt;read-only&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="370" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Expert-PC&lt;div&gt;C:\work\data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="350" x="250" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Windows Task Scheduler" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-7" parent="1" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2xiqKwB8iAG2IfPMBgUl-8" edge="1" parent="1" source="2xiqKwB8iAG2IfPMBgUl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="2xiqKwB8iAG2IfPMBgUl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jD59CoZJQ-WJkwNLRQ3E" name="Page-2">
+    <mxGraphModel dx="916" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="560" as="sourcePoint" />
+            <mxPoint x="80" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="560" as="sourcePoint" />
+            <mxPoint x="200" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AOptek PC" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Expert PC" vertex="1">
+          <mxGeometry height="30" width="60" x="354" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="560" as="sourcePoint" />
+            <mxPoint x="320" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="560" as="sourcePoint" />
+            <mxPoint x="440" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="560" as="sourcePoint" />
+            <mxPoint x="560" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Generate optical measurements" vertex="1">
+          <mxGeometry height="30" width="190" x="-30" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Share optical measurements folder with CSV" vertex="1">
+          <mxGeometry height="30" width="290" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Get optical measurements &amp;nbsp;CSV" vertex="1">
+          <mxGeometry height="30" width="220" x="195" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="ZUWeDDCO_iiXjSAPLMRV-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="110" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=1;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="150" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Converts to Optoplex Format/store to CODE &amp;nbsp;local folder" vertex="1">
+          <mxGeometry height="30" width="240" x="305" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=1;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=1;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="210" as="sourcePoint" />
+            <mxPoint x="560" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Convert Oproplex to binary and analyze with CODE" vertex="1">
+          <mxGeometry height="30" width="320" x="385" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUWeDDCO_iiXjSAPLMRV-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AGC spectrum scanner app" vertex="1">
+          <mxGeometry height="30" width="100" x="511" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
